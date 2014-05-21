@@ -16,7 +16,8 @@
 		"zf1/zend-exception": "self.version",
 		"zf1/zend-http": "self.version",
 		"zf1/zend-uri": "self.version",
-		"zf1/zend-locale": "self.version"
+		"zf1/zend-locale": "self.version",
+		"zf1/zend-xml": "self.version"
 	},
 	"autoload": {
 		"psr-0": {
